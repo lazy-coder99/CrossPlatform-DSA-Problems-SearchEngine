@@ -269,12 +269,3 @@ Live Demo Link : https://mern-dsa-search-engine.onrender.com/
 4. **Empty Search Results**
    - Verify problem data files exist in `precompute/data/`
    - Check MongoDB connection and data
-
-### Logs and Debugging
-
-Enable detailed logging by adding to your `.env`:
-```env
-NODE_ENV=development
-```
-
-- GitHub
