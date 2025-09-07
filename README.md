@@ -99,7 +99,7 @@ Make sure you have the following installed on your system:
    
    **For MongoDB Atlas (cloud database):**
    ```env
-   MONGOOSE_URL=mongodb+srv://username:password@cluster.mongodb.net/dsa-search-engine
+   MONGOOSE_URL=............................
    PORT=3000
    ```
 
