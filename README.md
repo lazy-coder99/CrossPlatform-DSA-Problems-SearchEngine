@@ -275,27 +275,4 @@ Enable detailed logging by adding to your `.env`:
 NODE_ENV=development
 ```
 
-## 📄 License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**PSPritish**
-- GitHub: [@PSPritish](https://github.com/PSPritish)
-
-## 🙏 Acknowledgments
-
-- Thanks to all the problem platforms (LeetCode, HackerRank, etc.) for providing quality DSA problems
-- TF-IDF algorithm implementation for effective search functionality
-- Open source community for inspiration and support
-
-## 🔗 Links
-
-- [Live Demo](#) (Add your deployed URL here)
-- [Report Bug](https://github.com/PSPritish/MERN_DSA_Search_Engine/issues)
-- [Request Feature](https://github.com/PSPritish/MERN_DSA_Search_Engine/issues)
-
----
-
-**Happy Coding! 🚀**
+- GitHub
