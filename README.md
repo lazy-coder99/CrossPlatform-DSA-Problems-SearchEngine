@@ -69,8 +69,8 @@ Make sure you have the following installed on your system:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PSPritish/MERN_DSA_Search_Engine.git
-   cd MERN_DSA_Search_Engine
+   git clone https://github.com/lazy-coder99/CrossPlatform-DSA-Problems-SearchEngine/tree/main
+   cd CrossPlatform-DSA-Problems-SearchEngine
    ```
 
 2. **Install root dependencies**
@@ -209,10 +209,12 @@ You may assume that each input would have exactly one solution, and you may not 
 - Line 2: Comma-separated tags
 - Line 3+: Problem description
 
+Live Demo Link : https://mern-dsa-search-engine.onrender.com/
 ### Names and URLs (`precompute/names.txt` and `precompute/url.txt`)
 
 - `names.txt`: One problem title per line
 - `url.txt`: Corresponding problem URLs (same line number as names.txt)
+
 
 ## 🤝 Contributing
 
